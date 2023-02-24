@@ -1,0 +1,6 @@
+- basic tests for add/fetch from database
+- delete feed url from database
+- add a real feed URL and query it
+- manual endpt to query feed urls
+- save feed results in database
+- scheduled task to query feed urls
