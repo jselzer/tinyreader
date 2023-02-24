@@ -6,10 +6,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class TinyreaderApplication {
+public class TinyReaderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TinyreaderApplication.class, args);
+		SpringApplication.run(TinyReaderApplication.class, args);
 	}
 
 }
